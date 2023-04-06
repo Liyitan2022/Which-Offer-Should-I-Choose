@@ -8,11 +8,11 @@
 
 把自己目前的专业作为一个向量，计算机专业作为另一个向量，
 
-**`计算两个向量之间的相似度，即cosine值，cos值越大，说明该专业含“计”量高`**
+**`计算两个向量之间的相似度，即cosine值。`**
 
-https://github.com/Liyitan2022/Which-Offer-Should-I-Choose/tree/main/images/cos.jpg
+[img](https://github.com/Liyitan2022/Which-Offer-Should-I-Choose/tree/main/images/cos.jpg)
 
-这也是很多人判断一个专业好不好的直接判断（非常主观）。
+cos越大，说明该专业含“计”量高，这也是很多人判断一个专业好不好的直接判断（非常主观）。
 
 另外，如果以后CS不是热门了，计算机那个向量也可以换成其他热门专业。
 
