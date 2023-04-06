@@ -10,7 +10,7 @@
 
 **`计算两个向量之间的相似度，即cosine值。`**  
 
-<img src="https://github.com/Liyitan2022/Which-Offer-Should-I-Choose/tree/main/images/cos.jpg" width="1000px">
+<img src="https://github.com/Liyitan2022/Which-Offer-Should-I-Choose/blob/main/cos.jpg" width="500px">
 
 cos越大，说明该专业含“计”量高，这也是很多人判断一个专业好不好的直接判断（非常主观）。
 
