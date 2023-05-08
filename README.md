@@ -55,3 +55,11 @@ A套用公式，工作幸福度 = 【（15w - 房租支出 - 公交地铁/电动
 B套用公式，工作幸福度 = 【（15w - 房租支出 - 大概率电动车 - 三餐支出）/ 每周30小时】× 个人满意系数(小城市视野小—)
 
 总的来说，A的房租、三餐支出比B略微贵一点，个人满意系数A要比B高一点，算下来大概差不多，A可能要略微高一丢丢？
+
+**总结：**抛开收入谈付出和抛开付出谈收入都是不客观的，真正应该考量的是**时薪**，而且是去除了附加值的时薪。
+
+（5.8更新）在B站上看到了两条评论，非常有代表性，这里码去头像昵称，看不到图片的话检查一下网络
+
+<img src="https://github.com/Liyitan2022/Which-Offer-Should-I-Choose/blob/main/cos.jpg" width="500px">
+
+<img src="https://github.com/Liyitan2022/Which-Offer-Should-I-Choose/blob/main/cos.jpg" width="500px">
