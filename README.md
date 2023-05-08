@@ -64,4 +64,4 @@ B套用公式，工作幸福度 = 【（15w - 房租支出 - 大概率电动车 
 
 <img src="https://github.com/Liyitan2022/Which-Offer-Should-I-Choose/blob/main/exp1.jpg" width="800px">
 
-<img src="https://github.com/Liyitan2022/Which-Offer-Should-I-Choose/blob/main/exp2.jpg" width="1000px">
+<img src="https://github.com/Liyitan2022/Which-Offer-Should-I-Choose/blob/main/exp2.jpg" width="800px">
